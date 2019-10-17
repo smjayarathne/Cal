@@ -1,0 +1,5 @@
+public void multiply(int num1,int num2){
+int multiply;
+   multiply=num1*num2;
+   System.out.println("Multiply : " +multiply);
+   }
