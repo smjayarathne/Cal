@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Calculations{
-public void add(int num1,int num2)
+public void add(int num1,int num3)
 int add;
-add=num1+num2;
+add=num1+num3;
 System.out.prinln("Addition: " +add);
 }
